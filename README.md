@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Govinda-Bhandari
 - 👀 I’m interested in programming, anlayising and visualizing data.
-- 🌱 I’m currently learning Data and System Anlayst
+- 🌱 I have complete my bachelor on Data and System Anlayst
+-     I'm a student of Data Sceince 1st year
 - 💞️ I’m looking to collaborate on related field
 - 📫 How to reach me govinbhandari017@gmail.com
 
